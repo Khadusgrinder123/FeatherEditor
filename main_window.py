@@ -9,10 +9,10 @@ from PySide6.QtWidgets import (
     QHBoxLayout, QInputDialog
 )
 
-from . import nord
-from .editor import CodeEditor
-from .python_completion import complete_members
-from .visual_debugger import VisualInterpreterDialog
+import nord
+from editor import CodeEditor
+from python_completion import complete_members
+from visual_debugger import VisualInterpreterDialog
 
 
 class EditorTab(CodeEditor):

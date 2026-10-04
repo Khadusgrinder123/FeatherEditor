@@ -10,7 +10,7 @@ import os
 
 def main():
     from PySide6.QtWidgets import QApplication
-    from featherEditor.main_window import MainWindow
+    from main_window import MainWindow
 
     app = QApplication(sys.argv)
     app.setApplicationName("FeatherEditor")

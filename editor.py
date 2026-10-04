@@ -8,7 +8,7 @@ from PySide6.QtWidgets import (
     QPlainTextEdit, QWidget, QTextEdit, QListWidget, QListWidgetItem
 )
 
-from .highlighter import PythonHighlighter
+from highlighter import PythonHighlighter
 
 IDENT_RE = re.compile(r"[A-Za-z_][A-Za-z0-9_]*")
 

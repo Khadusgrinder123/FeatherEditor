@@ -12,7 +12,7 @@ from PySide6.QtWidgets import (
     QTreeWidget, QTreeWidgetItem, QVBoxLayout, QWidget,
 )
 
-from .highlighter import PythonHighlighter
+from highlighter import PythonHighlighter
 
 
 _RUNNER = textwrap.dedent(r'''

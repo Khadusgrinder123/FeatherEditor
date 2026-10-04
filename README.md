@@ -45,13 +45,12 @@ python3 main.py [optional/workspace/folder]
 ```
 FeatherEditor/
   main.py                   entry point
-  featherEditor/
-    nord.py                 Nord palette + QSS theme builder
-    highlighter.py           regex-based Python syntax highlighter
-    editor.py                CodeEditor widget (gutter, completion popup)
-    python_completion.py      in-process import/member introspection
-    visual_debugger.py        resizable step-through execution window
-    main_window.py            tabs, file tree, toolbar, menu, status bar
+  nord.py                   Nord palette + QSS theme builder
+  highlighter.py             regex-based Python syntax highlighter
+  editor.py                  CodeEditor widget (gutter, completion popup)
+  python_completion.py       in-process import/member introspection
+  visual_debugger.py          resizable step-through execution window
+  main_window.py              tabs, file tree, toolbar, menu, status bar
 ```
 
 ## Shortcuts
