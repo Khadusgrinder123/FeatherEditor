@@ -71,3 +71,8 @@ FeatherEditor/
 | Step through  | F10      |
 | Zoom in / out / reset | Ctrl++ / Ctrl+- / Ctrl+0 |
 | Force autocomplete | Ctrl+Space |
+
+
+
+
+This thing is vibe coded not coded by me sorry for it i wont include it as my real project :(
